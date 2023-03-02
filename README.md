@@ -1,1 +1,1 @@
-# Lung-Disease-Identification-Using-Chest-Images
+# Lung-Disease-Identification-Using-Chest-Scans
